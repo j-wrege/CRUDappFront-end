@@ -1,0 +1,105 @@
+small-text
+{
+    color:black;
+}
+
+title-headings
+{
+    color:rgb(218, 218, 218);
+    background-color: #c5c4c4;
+    border-color:#ffffff;
+    font-size: 1rem;
+    font-weight: 4000;
+    line-height: 1.5;
+    padding: 0rem 1rem;
+    margin: 0.25rem;
+    display: block;
+    margin-right: auto; 
+    margin-left: auto;
+    text-align: center;
+}
+
+button
+{
+    display: block;
+    color:rgb(78, 78, 78);
+    background-color: #ececec;
+    border-color: rgb(161, 161, 161);
+    border-radius: 0.5rem;
+    line-height: 1.2;
+    padding: 0.3rem 0.75rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0rem;
+}
+
+h1
+{
+    background-color: #ececec;
+    color: rgb(139, 139, 139);
+    font-style: italic;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+h2
+{
+    background-color: #ececec;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10rem;
+    padding: 1rem 1rem;
+    text-align: right;
+}
+
+h3
+{
+    color:#4b4b4b;
+    text-align: center;
+}
+h4 
+{
+    font-size: 2rem;
+    color: #0066b4;
+    text-align: center;
+    margin-top: -7rem;
+    margin-bottom: 0.5em; 
+}
+
+p
+{
+    font-size: 2rem;
+    color: #505050;
+    text-align: center;
+    margin-top: 0rem;
+    margin-bottom: 0.5em; 
+    text-align: center;
+    display: block;
+}
+
+h5
+{
+    display: block;
+    margin-right: auto; 
+    margin-left: auto;
+    text-align: center;
+    margin: 0.25rem;
+}
+
+h6
+{
+    color:rgb(97, 97, 97);
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+img 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    margin-top: 3rem;
+}
